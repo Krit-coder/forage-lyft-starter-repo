@@ -1,5 +1,6 @@
 from battery.nubbin_battery import NubbinBattery
 from battery.splinder_battery import SplinderBattery
+from car import Car
 from engine.capulet_engine import CapuletEngine
 from engine.willoughby_engine import WilloughbyEngine
 from engine.sternman_engine import SternmanEngine
